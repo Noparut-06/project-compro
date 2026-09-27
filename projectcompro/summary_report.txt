@@ -1,0 +1,31 @@
+Cyber Cafe Booking System - Computer Report
+Generated At : 2026-09-28 02:10:25 (+07:00)
+App Version  : 1.0
+Endianness   : Little-Endian
+Encoding     : UTF-8 (fixed-length)
+
++--------+------------+------------+----------+------------------+----------+--------+
+| CompID | PC Name    | Zone       | RAM (GB) | Rate (THB/Hour)  | Status   | Active |
++--------+------------+------------+----------+------------------+----------+--------+
+| 1001   | pc1        | vip        | 32       | 20.00            | In Use   | Yes    |
++--------+------------+------------+----------+------------------+----------+--------+
+
+Summary (นับเฉพาะเครื่องสถานะ Active)
+- Total Computers (records) : 1
+- Active Computers          : 1
+- Deleted Computers         : 0
+- Free Slots (Unused/Soft-Deleted) : 0
+- Currently In Use          : 1
+- Available Now             : 0
+- Under Maintenance         : 0
+
+Rate Statistics (THB/Hour, Active only)
+- Min : 20.00
+- Max : 20.00
+- Avg : 20.00
+
+Computers by Zone (Active only)
+- vip        : 1
+
+Recent Activity Logs
+- [2026-09-28 02:10:25] Exited application safely
